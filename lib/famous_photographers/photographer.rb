@@ -1,6 +1,6 @@
 class Photographer
 
-   attr_accessor :image, :title, :authors_page, :link_to_buy, :recommended_for 
+   attr_accessor :photographer, :image, :book_title, :authors_bio, :link_to_buy, :authors_website
 
     @@all = []
 

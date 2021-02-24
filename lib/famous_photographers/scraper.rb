@@ -7,14 +7,19 @@ class Scraper
         @@doc = Nokogiri::HTML(open("https://phlearn.com/magazine/top-20-photography-books-of-all-time/"))
         
         @@doc.css(".div.list-card").first
-        #do |card|
+        #each do |card|
         binding.pry
-        select_photographer = Photographer.new
-        end
+        #end
+
+    
     end
 
-    # def self.choose_photographer
-
-    # end
+    
 end
+# photographer = @@doc.css(".list-card").first.css("p").css("a").text
+#  book_title = @@doc.css(".list-card").first.css("h3").text - eventually card.css(".list-card")[0].css("h3").text
+#  img_link = 
+# authors_info = @@doc.css(".list-card").first.css("p").css("p").text
+# author_web_link = 
+# link_to_buy = 
 

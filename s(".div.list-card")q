@@ -1,0 +1,430 @@
+=> [1;34m#(Element:0x2aecc3134bbc {[0m
+  name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+  attributes = [ [1;34m#(Attr:0x2aecc3134b44 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlist-card[1;31m"[0m[31m[0m })],
+  children = [
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x2aecc3134720 {[0m
+      name = [31m[1;31m"[0m[31mh3[1;31m"[0m[31m[0m,
+      children = [
+        [1;34m#(Element:0x2aecc3134590 {[0m
+          name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x2aecc313452c {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mnofollow[1;31m"[0m[31m[0m }), [1;34m#(Attr:0x2aecc3134518 {[0m name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/the-photographers-eye-freeman[1;31m"[0m[31m[0m }), [1;34m#(Attr:0x2aecc3134504 {[0m name = [31m[1;31m"[0m[31mtarget[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m_blank[1;31m"[0m[31m[0m })],
+          children = [ [1;34m#(Element:0x2aecc3139e28 {[0m name = [31m[1;31m"[0m[31mem[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mThe Photographer’s Eye: Composition and Design for Better Digital Photos[1;31m"[0m[31m[0m)] }), [1;34m#(Text [0m[31m[1;31m"[0m[31m by Michael Freeman[1;31m"[0m[31m[0m)]
+          })]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x2aecc3139914 {[0m
+      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+      attributes = [ [1;34m#(Attr:0x2aecc31398b0 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mpro-container2[1;31m"[0m[31m[0m })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2aecc31394b4 {[0m
+          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x2aecc3139450 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc313943c {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc3139428 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc3139414 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc3139400 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc31393ec {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m1652[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc31393d8 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m865[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc31393c4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden alignnone size-full wp-image-735342[1;31m"[0m[31m[0m }),
+            [1;34m#(Attr:0x2aecc31393b0 {[0m
+              name = [31m[1;31m"[0m[31mdata-lazy-srcset[1;31m"[0m[31m[0m,
+              value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=1652&quality=99&strip=all 1652w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=350&quality=99&strip=all 350w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=700&quality=99&strip=all 700w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=1536&quality=99&strip=all 1536w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=720&quality=99&strip=all 720w[1;31m"[0m[31m[0m
+              }),
+            [1;34m#(Attr:0x2aecc313939c {[0m name = [31m[1;31m"[0m[31mdata-lazy-sizes[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m(max-width: 1652px) 100vw, 1652px[1;31m"[0m[31m[0m })]
+          }),
+        [1;34m#(Element:0x2aecc31381e0 {[0m
+          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+          children = [
+            [1;34m#(Element:0x2aecc3138050 {[0m
+              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x2aecc313ffbc {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ffa8 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ff94 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ff80 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m1652[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ff6c {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m865[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ff58 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31malignnone size-full wp-image-735342[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x2aecc313ff44 {[0m
+                  name = [31m[1;31m"[0m[31msrcset[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=1652&quality=99&strip=all 1652w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=350&quality=99&strip=all 350w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=700&quality=99&strip=all 700w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=1536&quality=99&strip=all 1536w, https://phlearn.com/wp-content/uploads/2019/04/Michael-Freeman.jpg?w=720&quality=99&strip=all 720w[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x2aecc313ff30 {[0m name = [31m[1;31m"[0m[31msizes[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m(max-width: 1652px) 100vw, 1652px[1;31m"[0m[31m[0m })]
+              })]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2aecc313ef90 {[0m
+          name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x2aecc313ef2c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mpro-middle[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x2aecc313eb30 {[0m
+              name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+              attributes = [ [1;34m#(Attr:0x2aecc313eacc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mpro-text[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(Element:0x2aecc313e75c {[0m
+                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0x2aecc313e6f8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e6e4 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e6d0 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e6bc {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e6a8 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e694 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e680 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                    [1;34m#(Attr:0x2aecc313e66c {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                  }),
+                [1;34m#(Element:0x2aecc31437d4 {[0m
+                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                  children = [
+                    [1;34m#(Element:0x2aecc3143644 {[0m
+                      name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0x2aecc31435e0 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc31435cc {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc31435b8 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc31435a4 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc3143590 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc314357c {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc3143568 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                        [1;34m#(Attr:0x2aecc3143554 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                      }),
+                    [1;34m#(Element:0x2aecc31426e0 {[0m
+                      name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                      children = [
+                        [1;34m#(Element:0x2aecc3142550 {[0m
+                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0x2aecc31424ec {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc31424d8 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc31424c4 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc31424b0 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc314249c {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc3142488 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc3142474 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                            [1;34m#(Attr:0x2aecc3142460 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                          }),
+                        [1;34m#(Element:0x2aecc31475b4 {[0m
+                          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                          children = [
+                            [1;34m#(Element:0x2aecc3147424 {[0m
+                              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x2aecc31473c0 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc31473ac {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc3147398 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc3147384 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc3147370 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc314735c {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc3147348 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                [1;34m#(Attr:0x2aecc3147334 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                              }),
+                            [1;34m#(Element:0x2aecc31464c0 {[0m
+                              name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                              children = [
+                                [1;34m#(Element:0x2aecc3146330 {[0m
+                                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x2aecc31462cc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc31462b8 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc31462a4 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc3146290 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc314627c {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc3146268 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc3146254 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                    [1;34m#(Attr:0x2aecc3146240 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                  }),
+                                [1;34m#(Element:0x2aecc314b3a8 {[0m
+                                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                  children = [
+                                    [1;34m#(Element:0x2aecc314b218 {[0m
+                                      name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x2aecc314b1b4 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b1a0 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b18c {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b178 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b164 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b150 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b13c {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                        [1;34m#(Attr:0x2aecc314b128 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                      }),
+                                    [1;34m#(Element:0x2aecc314a2b4 {[0m
+                                      name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                      children = [
+                                        [1;34m#(Element:0x2aecc314a124 {[0m
+                                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x2aecc314a0c0 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a0ac {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a098 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a084 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a070 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a05c {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a048 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                            [1;34m#(Attr:0x2aecc314a034 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                          }),
+                                        [1;34m#(Element:0x2aecc3151190 {[0m
+                                          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                          children = [
+                                            [1;34m#(Element:0x2aecc3151000 {[0m
+                                              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0x2aecc3150f9c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f88 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f74 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f60 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f4c {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f38 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f24 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                [1;34m#(Attr:0x2aecc3150f10 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                              }),
+                                            [1;34m#(Element:0x2aecc315009c {[0m
+                                              name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                              children = [
+                                                [1;34m#(Element:0x2aecc3155ee8 {[0m
+                                                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0x2aecc3155e84 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e70 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e5c {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e48 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e34 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e20 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155e0c {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                    [1;34m#(Attr:0x2aecc3155df8 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                  }),
+                                                [1;34m#(Element:0x2aecc3154f84 {[0m
+                                                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                  children = [
+                                                    [1;34m#(Element:0x2aecc3154df4 {[0m
+                                                      name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0x2aecc3154d90 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d7c {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d68 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d54 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d40 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d2c {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d18 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                        [1;34m#(Attr:0x2aecc3154d04 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                      }),
+                                                    [1;34m#(Element:0x2aecc3159e6c {[0m
+                                                      name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                      children = [
+                                                        [1;34m#(Element:0x2aecc3159cdc {[0m
+                                                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0x2aecc3159c78 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c64 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c50 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c3c {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c28 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c14 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159c00 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                            [1;34m#(Attr:0x2aecc3159bec {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                          }),
+                                                        [1;34m#(Element:0x2aecc3158d78 {[0m
+                                                          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0x2aecc3158be8 {[0m
+                                                              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0x2aecc3158b84 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b70 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b5c {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b48 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b34 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b20 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158b0c {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                [1;34m#(Attr:0x2aecc3158af8 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                              }),
+                                                            [1;34m#(Element:0x2aecc315dc60 {[0m
+                                                              name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                              children = [
+                                                                [1;34m#(Element:0x2aecc315dad0 {[0m
+                                                                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                  attributes = [
+                                                                    [1;34m#(Attr:0x2aecc315da6c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315da58 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315da44 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315da30 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315da1c {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315da08 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315d9f4 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                    [1;34m#(Attr:0x2aecc315d9e0 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                  }),
+                                                                [1;34m#(Element:0x2aecc315cb6c {[0m
+                                                                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                  children = [
+                                                                    [1;34m#(Element:0x2aecc315c9dc {[0m
+                                                                      name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0x2aecc315c978 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c964 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c950 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c93c {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c928 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c914 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c900 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                        [1;34m#(Attr:0x2aecc315c8ec {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                      }),
+                                                                    [1;34m#(Element:0x2aecc3161a54 {[0m
+                                                                      name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                      children = [
+                                                                        [1;34m#(Element:0x2aecc31618c4 {[0m
+                                                                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                          attributes = [
+                                                                            [1;34m#(Attr:0x2aecc3161860 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc316184c {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc3161838 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc3161824 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc3161810 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc31617fc {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc31617e8 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                            [1;34m#(Attr:0x2aecc31617d4 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                          }),
+                                                                        [1;34m#(Element:0x2aecc3160960 {[0m
+                                                                          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                          children = [
+                                                                            [1;34m#(Element:0x2aecc31607d0 {[0m
+                                                                              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                              attributes = [
+                                                                                [1;34m#(Attr:0x2aecc316076c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc3160758 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc3160744 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc3160730 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc316071c {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc3160708 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc31606f4 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                [1;34m#(Attr:0x2aecc31606e0 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                              }),
+                                                                            [1;34m#(Element:0x2aecc3165834 {[0m
+                                                                              name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                              children = [
+                                                                                [1;34m#(Element:0x2aecc31656a4 {[0m
+                                                                                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                                  attributes = [
+                                                                                    [1;34m#(Attr:0x2aecc3165640 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc316562c {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc3165618 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc3165604 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc31655f0 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc31655dc {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc31655c8 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                    [1;34m#(Attr:0x2aecc31655b4 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                                  }),
+                                                                                [1;34m#(Element:0x2aecc3164740 {[0m
+                                                                                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                                  children = [
+                                                                                    [1;34m#(Element:0x2aecc31645b0 {[0m
+                                                                                      name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                                      attributes = [
+                                                                                        [1;34m#(Attr:0x2aecc316454c {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc3164538 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc3164524 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc3164510 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc31644fc {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc31644e8 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc31644d4 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                        [1;34m#(Attr:0x2aecc31644c0 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                                      }),
+                                                                                    [1;34m#(Element:0x2aecc3169628 {[0m
+                                                                                      name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                                      children = [
+                                                                                        [1;34m#(Element:0x2aecc3169498 {[0m
+                                                                                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                                          attributes = [
+                                                                                            [1;34m#(Attr:0x2aecc3169434 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc3169420 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc316940c {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc31693f8 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc31693e4 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc31693d0 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc31693bc {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                            [1;34m#(Attr:0x2aecc31693a8 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                                          }),
+                                                                                        [1;34m#(Element:0x2aecc3168534 {[0m
+                                                                                          name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                                          children = [
+                                                                                            [1;34m#(Element:0x2aecc31683a4 {[0m
+                                                                                              name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                                              attributes = [
+                                                                                                [1;34m#(Attr:0x2aecc3168340 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy lazy-hidden[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc316832c {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc3168318 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdata:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc3168304 {[0m name = [31m[1;31m"[0m[31mdata-lazy-type[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mimage[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc31682f0 {[0m name = [31m[1;31m"[0m[31mdata-lazy-src[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc31682dc {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc31682c8 {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                                [1;34m#(Attr:0x2aecc31682b4 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                                              }),
+                                                                                            [1;34m#(Element:0x2aecc316d41c {[0m
+                                                                                              name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                                                                                              children = [
+                                                                                                [1;34m#(Element:0x2aecc316d28c {[0m
+                                                                                                  name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                                                                                  attributes = [
+                                                                                                    [1;34m#(Attr:0x2aecc316d228 {[0m name = [31m[1;31m"[0m[31mloading[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mlazy[1;31m"[0m[31m[0m }),
+                                                                                                    [1;34m#(Attr:0x2aecc316d214 {[0m name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://phlearn.com/wp-content/uploads/2017/10/Expand-Arrows-2.jpg[1;31m"[0m[31m[0m }),
+                                                                                                    [1;34m#(Attr:0x2aecc316d200 {[0m name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m }),
+                                                                                                    [1;34m#(Attr:0x2aecc316d1ec {[0m name = [31m[1;31m"[0m[31mwidth[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m }),
+                                                                                                    [1;34m#(Attr:0x2aecc316d1d8 {[0m name = [31m[1;31m"[0m[31mheight[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m25[1;31m"[0m[31m[0m })]
+                                                                                                  })]
+                                                                                              })]
+                                                                                          })]
+                                                                                      })]
+                                                                                  })]
+                                                                              })]
+                                                                          })]
+                                                                      })]
+                                                                  })]
+                                                              })]
+                                                          })]
+                                                      })]
+                                                  })]
+                                              })]
+                                          })]
+                                      })]
+                                  })]
+                              })]
+                          })]
+                      })]
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x2aecc319f82c {[0m
+      name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31mBorn in England in 1945, [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2aecc319f610 {[0m
+          name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x2aecc319f5ac {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mnofollow[1;31m"[0m[31m[0m }), [1;34m#(Attr:0x2aecc319f598 {[0m name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttps://www.instagram.com/michaelfreemanphotography/[1;31m"[0m[31m[0m }), [1;34m#(Attr:0x2aecc319f584 {[0m name = [31m[1;31m"[0m[31mtarget[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m_blank[1;31m"[0m[31m[0m })],
+          children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mMichael Freeman[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m has authored more than 100 books, including more than 40 on the subject of photography. In this volume, Freeman guides readers through an exploration of what it takes to make a good image, breaking down the concept of composition into the idea of organizing graphic elements into a successful design.[1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x2aecc319ebe8 {[0m
+      name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31mSince compelling composition is one of the keys to great photography, this book can really help photographers take their work to the next level by providing valuable tools to help them look at the entire process of taking photos in an entirely new way.[1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x2aecc319e8a0 {[0m
+      name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+      children = [
+        [1;34m#(Element:0x2aecc319e710 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mOriginally published:[1;31m"[0m[31m[0m)] }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m 2007[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2aecc319e3c8 {[0m name = [31m[1;31m"[0m[31mbr[1;31m"[0m[31m[0m }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x2aecc319e1c0 {[0m name = [31m[1;31m"[0m[31mstrong[1;31m"[0m[31m[0m, children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mRecommended for:[1;31m"[0m[31m[0m)] }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m Anyone who wants to think more critically about the way various elements in an image interact.[1;31m"[0m[31m[0m)]
+      })]
+  })
