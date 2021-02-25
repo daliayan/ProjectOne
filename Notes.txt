@@ -1,0 +1,36 @@
+Command line interface
+
+User types start
+
+(Add command where if they type anything but start it states 'try again')
+(Accept values START, start, Start, STart - any variation of those letters)
+
+Shows a list of Photographer names
+
+1.
+2.
+…
+19.
+20.
+
+Which photographer would you like to learn more about?
+
+(Type # 1 to 20)
+
+(Add command where if they type anything but a # 1-20 it states 'invalid value')
+
+Shows: 
+-book title
+-authors biography
+-book image
+-link to buy book
+-link to photographers personal webpage
+
+Would you like to learn more about a different photographer? (y/n)
+
+(Accepts values - yes, y, Y, N, n, no, No, NO, Yes, YES - all variations)
+
+If yes loop back - if no output Thank you!
+
+
+

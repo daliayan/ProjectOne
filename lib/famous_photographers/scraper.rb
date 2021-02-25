@@ -6,20 +6,30 @@ class Scraper
     def self.get_photographers
         @@doc = Nokogiri::HTML(open("https://phlearn.com/magazine/top-20-photography-books-of-all-time/"))
         
-        @@doc.css(".div.list-card").first
-        #each do |card|
-        binding.pry
-        #end
+        @@doc.css("div.list-card").each do |card|
+        photo_obj = Photographer.new                        #The creation of my object
+        photo_obj.name = card.css("p").css("a").text            #Returns an instance of my Photographer
+        img_link = card.css('img.lazy')[0]['data-lazy-src']
+        photo_obj.book_title = card.css("h3").text
+        photo_obj.authors_bio = card.css("p").css("p").text
 
+        
+
+        photo_obj.image = img_link
+
+
+        binding.pry
+        end
+       
     
     end
 
     
 end
-# photographer = @@doc.css(".list-card").first.css("p").css("a").text
-#  book_title = @@doc.css(".list-card").first.css("h3").text - eventually card.css(".list-card")[0].css("h3").text
+
+
 #  img_link = 
-# authors_info = @@doc.css(".list-card").first.css("p").css("p").text
+
 # author_web_link = 
 # link_to_buy = 
 

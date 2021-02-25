@@ -2,6 +2,8 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/famous_photographers`. To experiment with that code, run `bin/console` for an interactive prompt.
 
+# ABOUT: This command line interface allows the user to select a photographers name from a numbered list. From there the user can access information from their selected photographer. Users have the option of clicking a link to directly purchase the photographers book from Amazon, they are presented with a small biography of the photographer as well. From the same page users can click a link which would allow them to go directly to the photographers personal page. 
+
 TODO: Delete this and the text above, and describe your gem
 
 ## Installation

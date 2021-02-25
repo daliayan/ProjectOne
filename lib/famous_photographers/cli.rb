@@ -1,7 +1,7 @@
 class CLI
     
     def initialize
-        puts "in CLI class"
+        Scraper.new("https://phlearn.com/magazine/top-20-photography-books-of-all-time/")
     end
     
 end
