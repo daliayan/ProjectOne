@@ -1,6 +1,6 @@
 class Photographer
 
-   attr_accessor :name, :image, :book_title, :authors_bio, :link_to_buy, :authors_website
+   attr_accessor :name, :image, :title, :bio, :link_to_buy, :authors_website
 
     @@all = []
 
@@ -10,6 +10,10 @@ class Photographer
     
     def self.all
         @@all
+    end
+
+    def self.list_photographers
+        @@all.each_with_index(1) {|obj, index| puts "#{index}. #{obj.name}"}
     end
 
 end  
