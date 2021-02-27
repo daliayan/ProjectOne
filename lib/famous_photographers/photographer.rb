@@ -1,6 +1,6 @@
 class Photographer
 
-   attr_accessor :name, :image, :title, :bio
+   attr_accessor :name, :image, :title, :summary
    
    #link_to_buy, :authors_website
 
@@ -8,6 +8,21 @@ class Photographer
 
     def initialize
         @@all << self
+    end
+
+    def self.find_titles_display_obj(integer)
+        idx = integer - 1
+        obj = @@all[idx]
+
+        puts "Photographer - #{obj.name}"
+        puts ''
+        puts "Book Title: #{obj.title}"
+        puts ''
+        puts "Summary: #{obj.summary}"
+        puts ''
+        puts "Click to view image: #{obj.image}"
+
+        #binding.pry
     end
     
     def self.all
@@ -22,6 +37,6 @@ class Photographer
         self.all.find {|obj| obj.title == chosen_title}
     end
 
-    
+
 
 end  

@@ -1,37 +1,46 @@
 class CLI
     
-    def initialize
-        Scraper.new("https://phlearn.com/magazine/top-20-photography-books-of-all-time/")
+    # def initialize
+    #     Scraper.new("https://phlearn.com/magazine/top-20-photography-books-of-all-time/")
+    # end
+
+    def self.begin
+        Scraper.get_photographers
+        hello
     end
 
-    # def self.begin
-    #     Scraper.get_page
-    #     page_welcome
-    #     choose
-    #     Photographer.list_photographers
-    # end
+    def self.hello
+        puts "Hello! Here's 20 publications by famous photographers that you should know:"
+        puts ''
+        Photographer.list_photographers
 
-    # def self.page_welcome
-    #     puts "Welcome! Here's 20 photographers you should know:"
-    #     gets.chomp
-    # end
+        num = self.make_selection
+        Photographer.find_titles_display_obj(num)
+    end
+
+    def self.make_selection
+        puts ''
+        puts "\n Which photographer would you like to learn about?"
+        choose = gets.chomp.to_i
+    end
+
+    
+end
+
+
 
     # def exit_mode
     #     "Thank you! I hop"
+ # list_photographers
+        # input = gets.strip.downcase
 
-    # def choose
-    #     list_photographers
-    #     input = gets.strip.downcase
+        #     if input.to_i
+        #     puts i
+        #     list_photographers(i-1)
 
-    #         if input.to_i
-    #         puts i
-    #         list_photographers(i-1)
-
-    #         else
-    #         puts "Invalid input. Try again."
+        #     else
+        #     puts "Invalid input. Try again."
                 
-    #         end
-    #     self.user_input
-    #     end
-    # end
-end
+        #     end
+        # self.user_input
+        # end

@@ -2,8 +2,4 @@
 
 require_relative '../lib/environment.rb'
 
-#CLI.new
-#Photographer.new
-#Scraper.new
-
-Scraper.get_photographers
+CLI.begin
