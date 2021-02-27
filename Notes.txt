@@ -38,5 +38,12 @@ Would you like to learn more about a different photographer? (y/n)
 
 If yes loop back - if no output Thank you!
 
+TO DO:
+
+-add more attributes
+-make loop (CLI)
+-display errors 
+-ask user if they want more options or exit?
+-error handling
 
 
