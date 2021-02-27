@@ -1,6 +1,8 @@
 class Photographer
 
-   attr_accessor :name, :image, :title, :bio, :link_to_buy, :authors_website
+   attr_accessor :name, :image, :title, :bio
+   
+   #link_to_buy, :authors_website
 
     @@all = []
 
@@ -13,7 +15,13 @@ class Photographer
     end
 
     def self.list_photographers
-        @@all.each_with_index(1) {|obj, index| puts "#{index}. #{obj.name}"}
+        @@all.each.with_index(1) {|obj, idx| puts "#{idx}. #{obj.name}"}
     end
+
+    def self.find_book_title(chosen_title)
+        self.all.find {|obj| obj.title == chosen_title}
+    end
+
+    
 
 end  
