@@ -1,6 +1,6 @@
 class Photographer
 
-   attr_accessor :name, :image, :title, :summary
+   attr_accessor :name, :image, :title, :summary, :author
    
    #link_to_buy, :authors_website
 
@@ -14,7 +14,8 @@ class Photographer
         idx = integer - 1
         obj = @@all[idx]
 
-        puts "Photographer - #{obj.name}"
+        puts ''
+        puts "Photographer name: #{obj.author}"
         puts ''
         puts "Book Title: #{obj.title}"
         puts ''

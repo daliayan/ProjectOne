@@ -20,7 +20,7 @@ class CLI
 
     def self.make_selection
         puts ''
-        puts "\n Which photographer would you like to learn about?"
+        puts "\n Which publication would you like to learn about?"
         choose = gets.chomp.to_i
     end
 

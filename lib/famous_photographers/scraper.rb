@@ -8,16 +8,18 @@ class Scraper
         
         @@doc.css("div.list-card").each do |card|
             photo_obj = Photographer.new                        #The creation of my object
-            photo_name = card.css("a")[0].text          #Returns an instance of my Photographer
+            full_book_title = card.css("a")[0].text          #Returns an instance of my Photographer
             img_link = card.css('img.lazy')[0]['data-lazy-src']
-            book_title = card.css('h3 a').text
-            authors_summary = card.css("p").css("p")[0].text
+            book_title = card.css('h3 a em').text
+            authors_summary = card.css("p").css("p").text
+            author_name = card.css("p").css("p a").text
 
         
-            photo_obj.name = photo_name
+            photo_obj.name = full_book_title
             photo_obj.image = img_link
             photo_obj.title = book_title
             photo_obj.summary = authors_summary
+            photo_obj.author = author_name
 
             
         end
