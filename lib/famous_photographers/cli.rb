@@ -7,7 +7,7 @@ class CLI
     end
 
     def self.hello
-        puts "Hello! Here's 20 publications by famous photographers that you should know:"
+        puts "\n Hello! Here's 20 publications by famous photographers that you should know:"
         puts ''
         Photographer.list_photographers
         # puts "got photography $$$$$$"
@@ -15,16 +15,13 @@ class CLI
 
     def self.make_selection
             puts "\n Which publication would you like to learn about? Type the corresponding 'number' below:"
+            puts ''
             choose = gets.chomp.to_i
-           # Photographer.find_titles_display_obj(choose)
-            #run_again
 
             if choose > 0 && choose <= 20
-                puts "### Within range"
                 Photographer.find_titles_display_obj(choose)
                 run_again
             else
-                puts "#### OUT OF RANGE"
                 error
                 make_selection
             end
@@ -32,27 +29,41 @@ class CLI
 
     def self.run_again
 
-        puts "\n Would you like to learn about a different photographer or would you like to exit?:"
-        # confitional
-        #     if y/yes - array of values
-        #         call make selection
-        #     elsif n/no
-        #         exit
-        #     else
-        #         error
-        #         run_again
-        #     end
-        make_selection
-        #choose = gets.chomp.to_i
+        puts "\n Would you like to learn about a different photographer? Y/N"
+        puts ''
+            
+        user_input = gets.chomp
+
+        if user_input == "yes"
+            puts ''
+            Photographer.list_photographers
+            make_selection
+        elsif user_input == "no"
+            puts ''
+            exit_mode
+        else
+            error
+            run_again
+        end
+
     end
 
      def self.exit_mode
-        puts "Thank you! I hope you enjoyed."
-        return
+        puts "Thank you! I hope you learned something today."
+        puts ''
      end
 
+    #  def self.yes
+    #     yes = ["yes", "y", "YES", "Yes", "Y"]
+    #  end
+
+    # def self.no
+    #     no = ["no", "n", "NO", "No", "N"]
+    # end
+
      def self.error
-        puts "ERROR! Try again."
+        puts ''
+        puts "\n Invalid input. Try again."
      end
 
 end
@@ -73,3 +84,44 @@ end
         #     end
         # self.user_input
         # end
+
+=begin
+            
+         puts "\n Would you like to learn about a different photographer or would you like to exit?:"
+        
+        if yes_input
+            make_selection
+        elsif no_input
+            exit_mode
+        else
+            error
+            run_again
+        end
+    end
+
+     def self.exit_mode
+        puts "Thank you! I hope you enjoyed."
+        return
+     end
+
+     def self.yes_input
+        if yes == ["yes", "y", "YES", "Yes", "Y"]
+            return yes
+        else
+            error
+        end
+     end
+
+    def self.no_input
+        if no == ["no", "n", "NO", "No", "N"]
+            return no
+        else
+            error
+        end
+    end
+
+     def self.error
+        puts "Invalid input. Try again."
+     end
+
+=end

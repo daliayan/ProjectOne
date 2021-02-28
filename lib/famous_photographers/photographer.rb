@@ -17,15 +17,15 @@ class Photographer
         obj = @@all[idx]
 
         puts ''
-        puts "Photographer name: #{obj.author}"
+        puts "\n Photographer name: #{obj.author}"
         puts ''
-        puts "Book Title: #{obj.title}"
+        puts "\n Book Title: #{obj.title}"
         puts ''
-        puts "Summary: #{obj.summary}"
+        puts "\n Summary: #{obj.summary}"
         puts ''
-        puts "Here's the link to purchase the book: #{obj.purchase}"
+        puts "\n Here's the link to purchase the book: #{obj.purchase}"
         puts ''
-        puts "Click to view image: #{obj.image}"
+        puts "\n Click to view image: #{obj.image}"
         puts ''
     end
     
