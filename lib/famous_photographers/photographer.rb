@@ -13,7 +13,6 @@ class Photographer
     def self.find_titles_display_obj(integer)
         idx = integer - 1
         obj = @@all[idx]
-
         puts ''
         puts "\n Photographer name: #{obj.author}"
         puts ''

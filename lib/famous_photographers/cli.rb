@@ -54,11 +54,11 @@ class CLI
      end
 
      def self.yes
-        yes = ["yes", "y", "YES", "Yes", "Y"]
+        yes = ["yes", "y", "YES", "Yes", "Y", "YEs", "YeS", "yES", "yeS"]
      end
 
     def self.no
-        no = ["no", "n", "NO", "No", "N"]
+        no = ["no", "n", "NO", "No", "N", "nO"]
     end
 
      def self.error
