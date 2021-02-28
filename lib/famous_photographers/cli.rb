@@ -34,11 +34,11 @@ class CLI
             
         user_input = gets.chomp
 
-        if user_input == "y"
+        if yes.include?(user_input)
             puts ''
             Photographer.list_photographers
             make_selection
-        elsif user_input == "n"
+        elsif no.include?(user_input)
             puts ''
             exit_mode
         else
@@ -53,13 +53,13 @@ class CLI
         puts ''
      end
 
-    #  def self.yes
-    #     yes = ["yes", "y", "YES", "Yes", "Y"]
-    #  end
+     def self.yes
+        yes = ["yes", "y", "YES", "Yes", "Y"]
+     end
 
-    # def self.no
-    #     no = ["no", "n", "NO", "No", "N"]
-    # end
+    def self.no
+        no = ["no", "n", "NO", "No", "N"]
+    end
 
      def self.error
         puts ''
