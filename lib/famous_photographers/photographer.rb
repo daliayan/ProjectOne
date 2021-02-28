@@ -1,6 +1,6 @@
 class Photographer
 
-   attr_accessor :name, :image, :title, :summary, :author
+   attr_accessor :name, :image, :title, :summary, :author, :purchase
    
    #link_to_buy, :authors_website
 
@@ -11,6 +11,8 @@ class Photographer
     end
 
     def self.find_titles_display_obj(integer)
+        puts"%%%% #{ integer.class}"
+        puts "%%% #{integer}"
         idx = integer - 1
         obj = @@all[idx]
 
@@ -21,9 +23,10 @@ class Photographer
         puts ''
         puts "Summary: #{obj.summary}"
         puts ''
+        puts "Here's the link to purchase the book: #{obj.purchase}"
+        puts ''
         puts "Click to view image: #{obj.image}"
-
-        #binding.pry
+        puts ''
     end
     
     def self.all
