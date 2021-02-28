@@ -34,11 +34,11 @@ class CLI
             
         user_input = gets.chomp
 
-        if user_input == "yes"
+        if user_input == "y"
             puts ''
             Photographer.list_photographers
             make_selection
-        elsif user_input == "no"
+        elsif user_input == "n"
             puts ''
             exit_mode
         else
