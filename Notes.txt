@@ -26,11 +26,12 @@ Which photographer would you like to learn more about?
 (Add command where if they type anything but a # 1-20 it states 'invalid value')
 
 Shows: 
--book title
+-photographers name
+-photography book title
 -authors biography
 -book image
 -link to buy book
--link to photographers personal webpage
+
 
 Would you like to learn more about a different photographer? (y/n)
 

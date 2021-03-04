@@ -31,7 +31,7 @@ class Photographer
     end
 
     def self.list_photographers
-        @@all.each.with_index(1) {|obj, idx| puts "#{idx}. #{obj.name}"}
+        @@all.each.with_index(1) {|obj, idx| puts "\n#{idx}. #{obj.name}"}
     end
 
     def self.find_book_title(chosen_title)

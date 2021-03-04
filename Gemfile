@@ -9,7 +9,8 @@ source "https://rubygems.org"
 gem 'rubygems'
 gem 'nokogiri'
 gem 'open-uri'
-gem 'pry'
+gem 'colorize', '~> 0.8.1'
+
 PAGE_URL = "https://phlearn.com/magazine/top-20-photography-books-of-all-time/"
 
 gem "rake", "~> 13.0"
