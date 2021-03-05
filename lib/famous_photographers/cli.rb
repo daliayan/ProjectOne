@@ -8,12 +8,13 @@ class CLI
 
     def self.hello
         puts "\n Hello! Here's 20 publications by famous photographers that you should know:".green
-        puts ''
+        puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
         sleep 1
         Photographer.list_photographers
     end
 
     def self.make_selection
+            puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
             puts "\n Which publication would you like to learn about? Type the corresponding digit below and hit 'Enter':".green
             puts ''
             sleep 1
@@ -30,6 +31,7 @@ class CLI
 
     def self.run_again
         sleep 2
+        puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
         puts "\n Would you like to learn about a different photographer? Type yes or no and hit 'Enter'".green
         puts ''
             
@@ -50,8 +52,9 @@ class CLI
     end
 
      def self.exit_mode
+        puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".blue
         puts "\n Thank you! I hope you learned something today.".blue
-        puts ''
+        puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".blue
      end
 
      def self.yes
@@ -63,8 +66,9 @@ class CLI
     end
 
      def self.error
-        puts ''
+        puts "\n----------------------------".red
         puts "\n Invalid input. Try again.".red
+        puts "\n----------------------------".red
      end
 
 end

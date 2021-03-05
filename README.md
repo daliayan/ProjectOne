@@ -1,10 +1,9 @@
 # FamousPhotographers
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/famous_photographers`. To experiment with that code, run `bin/select_photographer` for an interactive prompt.
+Welcome to Famous Photograpers! From the terminal window you will use the directory to access the `famous_photographers` file. To experiment with the code, run ` ./bin/select_photographer ` for an interactive prompt. Users should follow the directions in the prompt to learn more about Famous Photographers. In this directory, you'll also find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/famous_photographers`.
 
-# ABOUT: This command line interface allows the user to select a photographers name from a numbered list. From there the user can access information from their selected photographer. Users have the option of clicking a link to directly purchase the photographers book from Amazon, they are presented with a small biography of the photographer as well. From the same page users can click a link which would allow them to go directly to the photographers personal page. 
+# ABOUT: This command line interface first welcomes the user, followed by an outputted list of Famous Photographers. From the terminal, users are allowed to select a photographers name from a numbered list. The user can input the corresponding number to access more information from their selected photographer. Users are presented with the Photographers name, book title, a short summary about their selected photographer, they have the option of clicking a link to directly purchase the photographers book from Amazon, and lastly a link which would output an image.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -21,13 +20,19 @@ And then execute:
 
     $ bundle install
 
-Or install it yourself as:
+When the application gets published as a Gem in the near future, you can install it yourself as:
 
     $ gem install famous_photographers
 
 ## Usage
 
-TODO: Write usage instructions here
+The user will clone the ProjectOne repository from GitHub to be able to store the application on their personal machines. They will use their change directory command to open into the `famous_photographers` file. The user will type ` ./bin/select_photographer ` into their terminal. 
+
+Once the user inputs that line of code, they will be presented with a welcome prompt as well as a list of famous photographers. The user can input a number corresponding to the photographer they'd like to learn more about. 
+
+From there the user will be asked if they'd like to continue learning about the varying photographers or not. If the user chooses to learn about another photographer they'd be presented with another list of the same photographers - then make their selection again.
+
+If the user chooses not to learn about another photographer, they'll receive a 'good-bye' output in their terminal. 
 
 ## Development
 

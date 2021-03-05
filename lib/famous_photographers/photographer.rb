@@ -19,9 +19,9 @@ class Photographer
         puts ''
         puts "\n Summary: #{obj.summary}"
         puts ''
-        puts "\n Here's the link to purchase the book: #{obj.purchase}"
+        puts "\n Click the link to purchase the book (or copy+paste into your web browser): #{obj.purchase}"
         puts ''
-        puts "\n Click to view image: #{obj.image}"
+        puts "\n Click to view image (or copy+paste into your web browser): #{obj.image}"
         puts ''
     end
     
