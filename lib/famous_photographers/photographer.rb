@@ -2,7 +2,6 @@ class Photographer
 
    attr_accessor :name, :image, :title, :summary, :author, :purchase
    
-   #link_to_buy, :authors_website
 
     @@all = []
 

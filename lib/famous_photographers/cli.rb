@@ -11,12 +11,10 @@ class CLI
         puts ''
         sleep 1
         Photographer.list_photographers
-        # puts "got photography $$$$$$"
     end
 
     def self.make_selection
-            sleep 1
-            puts "\n Which publication would you like to learn about? Type the corresponding 'number' below:".green
+            puts "\n Which publication would you like to learn about? Type the corresponding digit below and hit 'Enter':".green
             puts ''
             sleep 1
             choose = gets.chomp.to_i
@@ -31,8 +29,8 @@ class CLI
     end 
 
     def self.run_again
-
-        puts "\n Would you like to learn about a different photographer? Y/N".green
+        sleep 2
+        puts "\n Would you like to learn about a different photographer? Type yes or no and hit 'Enter'".green
         puts ''
             
         user_input = gets.chomp

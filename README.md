@@ -11,7 +11,10 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'famous_photographers'
+gem 'rubygems'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'colorize', '~> 0.8.1'
 ```
 
 And then execute:

@@ -1,14 +1,11 @@
 class Scraper
-
-    # @@doc = class variable that stores my Nokogiri parsing gem
     
-
     def self.get_photographers
         @@doc = Nokogiri::HTML(open("https://phlearn.com/magazine/top-20-photography-books-of-all-time/"))
         
         @@doc.css("div.list-card").each do |card|
-            photo_obj = Photographer.new                        #The creation of my object
-            full_book_title = card.css("a")[0].text          #Returns an instance of my Photographer
+            photo_obj = Photographer.new                        
+            full_book_title = card.css("a")[0].text     
             img_link = card.css('img.lazy')[0]['data-lazy-src']
             book_title = card.css('h3 a em').text
             authors_summary = card.css("p").css("p").text
