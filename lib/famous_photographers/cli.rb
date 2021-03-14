@@ -20,7 +20,7 @@ class CLI
             sleep 1
             choose = gets.chomp.to_i
 
-            if choose > 0 && choose <= 20
+            if choose > 0 && choose <= 20 
                 Photographer.find_titles_display_obj(choose)
                 run_again
             else
