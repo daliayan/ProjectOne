@@ -2,4 +2,6 @@
 
 require_relative '../lib/environment.rb'
 
-CLI.begin.new
+ run_file = CLI.new
+ run_file = CLI.begin
+ run_file
