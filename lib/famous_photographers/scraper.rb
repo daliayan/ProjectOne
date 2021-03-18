@@ -21,7 +21,6 @@ class Scraper
             photo_obj.author = author_name
             photo_obj.purchase = buy_book
 
-            
         end
     end
     

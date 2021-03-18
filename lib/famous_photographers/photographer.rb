@@ -2,7 +2,6 @@ class Photographer
 
    attr_accessor :name, :image, :title, :summary, :author, :purchase
    
-
     @@all = []
 
     def initialize
@@ -36,7 +35,5 @@ class Photographer
     def self.find_book_title(chosen_title)
         self.all.find {|obj| obj.title == chosen_title}
     end
-
-
 
 end  

@@ -1,20 +1,19 @@
 class CLI
 
-
-    def start
+    def begin
         Scraper.get_photographers
         hello
         make_selection
     end
 
-    def hello
+    def self.hello
         puts "\n Hello! Here's 20 publications by famous photographers that you should know:".green
         puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
         sleep 1
         Photographer.list_photographers
     end
 
-    def make_selection
+    def self.make_selection
             puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
             puts "\n Which publication would you like to learn about? Type the corresponding digit below and hit 'Enter':".green
             puts ''
@@ -30,7 +29,7 @@ class CLI
             end
     end 
 
-    def run_again
+    def self.run_again
         sleep 2
         puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".green
         puts "\n Would you like to learn about a different photographer? Type yes or no and hit 'Enter'".green
@@ -52,21 +51,21 @@ class CLI
 
     end
 
-     def exit_mode
+     def self.exit_mode
         puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".blue
         puts "\n Thank you! I hope you learned something today.".blue
         puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~".blue
      end
 
-     def yes
+     def self.yes
         yes = ["yes", "y", "YES", "Yes", "Y", "YEs", "YeS", "yES", "yeS", "yEs"]
      end
 
-    def no
+    def self.no
         no = ["no", "n", "NO", "No", "N", "nO"]
     end
 
-     def error
+     def self.error
         puts "\n----------------------------".red
         puts "\n Invalid input. Try again.".red
         puts "\n----------------------------".red
